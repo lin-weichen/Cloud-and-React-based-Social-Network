@@ -1,4 +1,4 @@
-# Around
+# Cloud and React-based Social Network
 
 ```
 Let's create an account and put some image and vidoe posts on this web application! 
